@@ -18,6 +18,8 @@ public class Prueba1_JavaApplication1 {
            System.out.println("Hola Git.");
            System.out.println("Segunta línea");
            System.out.println("Tercera Linea en rama principal.");
+           System.out.println("Tercera línea IdeaLoca.");
+
         // TODO code application logic here
     }
     
